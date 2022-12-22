@@ -28,5 +28,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-1 comment on commit d2470b3
